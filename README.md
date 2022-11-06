@@ -62,4 +62,4 @@ I highly encourage you to raise issues & PRs for bugs & new features.
 
 
 ### ➔ License ⚖️
-[MIT license](https://github.com/AkhileshThite/HealthyMe-AI/blob/main/LICENSE) 
+[MIT license](https://github.com/Abhijit-S-Z/HealthyMe-AI/blob/49e9d111e27af8c4628db59619ed0560c6b11334/LICENSE) 
